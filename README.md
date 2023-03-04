@@ -8,7 +8,7 @@ Using RenovateBot is simple. Users can upload a photo of their living space and 
 
 To use RenovateBot, simply do the following:
 
-1. Open Telegram and search for `@EpidRenovatebot`.
+1. Open Telegram and search for `@EpicRenovatebot`.
 2. Click Start to begin the conversation
 3. Send a photo of the room or kitchen that you want to renovate.
 4. The bot will ask for a prompt to understand your preferences and needs.
